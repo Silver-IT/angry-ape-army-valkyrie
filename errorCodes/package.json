@@ -1,0 +1,12 @@
+{
+  "name": "error-code-gen",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "ts-node genErrCode.ts"
+  },
+  "devDependencies": {
+    "@types/keccak": "^3.0.1",
+    "@types/node": "^12.20.43",
+    "keccak256": "^1.0.6"
+  }
+}
